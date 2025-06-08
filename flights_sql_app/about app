@@ -1,0 +1,22 @@
+This is data from a "past date", used only for building a project that can demonstrate my work.
+It will not provide any information about future flights.
+
+
+We are creating a website based on flight data, which will include a sidebar titled "Flight Analytics",
+and a dropdown box named "Menu". The dropdown will have three options:
+
+1. Check Flights
+2. Analytics
+3. About Project – which will contain a description of this project.
+
+-> Inside the "Check Flights" section, we will keep three dropdown toggles:
+
+1. The first one for selecting the "Source" (departure city),
+2. The second for the "Destination" city, and
+3. The third for the "Date" (based on available data).
+
+After selecting all three, we will click on "Search" button,
+and all the flights available on that selected day will be displayed.
+
+
+-> Inside the "Analytics" section, we will make analysis of the project
